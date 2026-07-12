@@ -1,0 +1,4 @@
+[Variable,12]
+The board can be used on Robotron and Joust which shared identical hardwate, it can also be used on Splat!, however, this is a rare game and the Special chips (SC) at IC 8A and IC 9A where SC2 rather than SC1 for Splat!
+
+The Bubbles ROM board is also identified as D9144, however the 40 way pinout ribbon is different and can only be used when paired with an R9663 Bubbles CPU board (which has extra CMS RAM).
