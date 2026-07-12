@@ -1,0 +1,5 @@
+Warning: This board has +12v and -5v supplies that are used to power the 4116 RAM. There is also an unregulated +12v used in the reset circuit.
+
+If this board has been adapted to use 4164 RAM using an adaptor or other means then these +12v and -5v supplies will not be present but the +12v unregulated supply will always be present.
+
+Ensure that the test clip and ground do not come into contact with any of these locations or damage to the Digilent unit may occur.

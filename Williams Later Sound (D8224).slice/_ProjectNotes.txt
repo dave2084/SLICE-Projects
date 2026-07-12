@@ -1,0 +1,3 @@
+Warning: This board has +12v and -12v supplies that are used to generate the +5v regulated supply.  The +12v supply is also used in the reset circuit and the -12v supply is used to drive the DAC.
+
+Ensure that the test clip and ground do not come into contact with any of these locations or damage to the Digilent unit may occur.
