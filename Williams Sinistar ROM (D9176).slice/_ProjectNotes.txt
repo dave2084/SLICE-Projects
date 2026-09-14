@@ -1,0 +1,6 @@
+[Variable,12]
+This board is unique to SInistar.
+
+ROM 10 is not used and instead 2x2128 RAM replace it at D000-DFFF.  ROMs 11 ans 12 are renumbered to 10 and 11.
+
+There is also a clipper circuit to restrict the operational area of the Special Chips.
