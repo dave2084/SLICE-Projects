@@ -1,0 +1,9 @@
+[Variable,12]
+Warning: This board has +10.3v, +12v, +15v +22v, -5v, -15v and -22v supplies. Ensure that the test clip and ground do not come into contact with any of these voltages or damage to the Digilent unit may occur.
+
+Known issues from a sample of two working boardsets:
+D5, D6, E5, F5, H5 anf H6 (74LS194) Always fails with low error count
+J5 (74LS193) Always fails
+E2 (74LS244) Fails on most output pins unless propogation is increased to ~175ns
+F2 (DP8304P) Fails unless propogation is increased to ~350ns
+H2 (DP8304P) Fails unless propogation is increased to ~150ns (test mode) or ~350ns (attract mode)

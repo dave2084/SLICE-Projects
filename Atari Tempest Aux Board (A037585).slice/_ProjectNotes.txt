@@ -1,0 +1,8 @@
+[Variable,12]
+Warning: This board has +12v, +22v and -22v supplies. Ensure that the test clip and ground do not come into contact with any of these voltages or damage to the Digilent unit may occur.
+
+Known issues from a sample of two working boardsets:
+D5 (74LS74) Always fails on pins 5 and 6
+D6 (74LS157) When moving spinner propagation time needs a signiificant increase to pass
+F3 (74LS374) Only active when accessing EAROM
+H3 (74LS244) Always fails on output pins
