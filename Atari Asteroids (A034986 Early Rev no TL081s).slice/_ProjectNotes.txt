@@ -7,3 +7,5 @@ This early revision Asteroids board layout differes from the more common variant
 The board sampled here is marked A034986 on the front and Rev B on the rear, use the first printing of DP-143 for schematics.
 
 The easiest way to identify this is the lack of TL081s.
+
+This board works in Upright games only.
